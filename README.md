@@ -1,9 +1,4 @@
-# zaimsides.github.io
----
-NaiksLevel Fitness — Privacy Policy
----
-
-# Privacy Policy — NaiksLevel Fitness
+# NaiksLevel Fitness — Privacy Policy
 
 **Last updated:** September 1, 2026  
 **Developer:** Zaim Zahisham  
